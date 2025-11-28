@@ -1,4 +1,4 @@
-# Implement Phase (Simple Roman Urdu Version)
+# Implement Phase
 
 ## 1. Implement Phase Kya Hai?
 Implement phase wo hota hai jahan aap **plan aur tasks** ko follow karte hue AI se kaam karwati hain.
