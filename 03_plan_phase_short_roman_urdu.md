@@ -48,6 +48,17 @@ ADRs un decisions ke liye bante hain jo:
 - Important decisions find karta hai
 - ADR files banata hai
 
+```
+/sp.adr Review the generated plan and record key Architectural Decisions.
+
+Focus on decisions that:
+1. Affect multiple sections or phases
+2. Had alternatives we considered
+3. Will shape how we write the paper
+4. Someone might question later
+
+```
+
 ---
 
 ## 6. Example Simple ADR
